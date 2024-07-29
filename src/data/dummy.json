@@ -1,0 +1,54 @@
+{
+  "watchlist": [
+    { "id": 1, "name": "TCS", "price": 3200.5 },
+    { "id": 2, "name": "RELIANCE", "price": 2400.75 },
+    { "id": 3, "name": "INFY", "price": 1800.25 },
+    { "id": 4, "name": "HDFCBANK", "price": 1600.8 }
+  ],
+  "fno": [
+    { "id": 1, "name": "NIFTY 50", "price": 15800.3 },
+    { "id": 2, "name": "BANK NIFTY", "price": 35000.4 },
+    { "id": 3, "name": "NIFTY IT", "price": 30000.2 },
+    { "id": 4, "name": "NIFTY FMCG", "price": 4500.5 }
+  ],
+  "indexes": [
+    { "id": 1, "name": "BSE SENSEX", "price": 52500.6 },
+    { "id": 2, "name": "NIFTY 50", "price": 15800.3 },
+    { "id": 3, "name": "NIFTY MIDCAP 50", "price": 7500.0 },
+    { "id": 4, "name": "GIFT NIFTY", "price": 5000.4 }
+  ],
+  "mutualFunds": [
+    { "id": 1, "name": "SBI Bluechip Fund", "price": 45.25 },
+    { "id": 2, "name": "HDFC Small Cap Fund", "price": 72.4 },
+    { "id": 3, "name": "ICICI Prudential Equity Fund", "price": 60.5 },
+    { "id": 4, "name": "Kotak Standard Multicap Fund", "price": 52.75 }
+  ],
+  "profile": {
+    "name": "Deep Gandhi",
+    "email": "deep.gandhi@google.com",
+    "phone": "1234567890",
+    "address": "1234 Main Street, Mumbai, India",
+    "dob": "1985-07-15"
+  },
+  "holdings": [
+    { "id": 1, "name": "HDFC Bank", "quantity": 100, "price": 1500.0 },
+    { "id": 2, "name": "Infosys", "quantity": 50, "price": 1700.25 },
+    { "id": 3, "name": "ICICI Bank", "quantity": 75, "price": 750.75 },
+    { "id": 4, "name": "Bharti Airtel", "quantity": 200, "price": 340.1 }
+  ],
+  "wallet": {
+    "balance": 15000.75,
+    "transactions": [
+      { "id": 1, "type": "Deposit", "amount": 10000.0 },
+      { "id": 2, "type": "Withdrawal", "amount": 2000.0 },
+      { "id": 3, "type": "Deposit", "amount": 5000.0 },
+      { "id": 4, "type": "Fee", "amount": 500.0 }
+    ]
+  },
+  "gold": [
+    { "id": 1, "name": "Gold ETF", "price": 4500.0 },
+    { "id": 2, "name": "Gold Futures", "price": 4600.5 },
+    { "id": 3, "name": "Physical Gold", "price": 4700.0 },
+    { "id": 4, "name": "Gold Sovereign Bonds", "price": 4800.0 }
+  ]
+}
